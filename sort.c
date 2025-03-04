@@ -15,6 +15,7 @@ void initArr(int arr[], int length)
     }
 }
 
+
 void showArr(int arr[], int length)
 {
     for (int i = 0; i < length; i++)
